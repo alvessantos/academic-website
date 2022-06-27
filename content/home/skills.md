@@ -16,18 +16,36 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: '<div align="justify"> I have implemented different statistical models in R such as ANOVA, and Regression. In addition, I have used many packages to design graphs, and to write academic papers.</div>'
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
-    icon: chart-line
+    
+  - description: '<div align="justify"> I have experience in employing different statistical models such as: t-test, ANOVA, and Regression Analysis.</div>'
+    icon: chart-column
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+    
+  - description: '<div align="justify"> I have 3 years of experience using Overleaf. I have used it to write my academic papers.</div>'
+    icon: "overleaf"
+    icon_pack: ai
+    name: Overleaf
+    
+  - description: '<div align="justify"> I have used Python to implement models of computational linguistics, and I have used the package Pandas for data analysis.</div>'
+    icon: python
+    icon_pack: fab
+    name: Python
+    
+  - description: '<div align="justify"> I have used PCIbex Farm to conduct many linguistic experiments and surveys. They were conducted online, and on Amazon Mechanical Turk (MTurk). </div>'
+    icon: code
     icon_pack: fas
-    name: Photography
+    name: PCIbex Farm
+    
+  - description: '<div align="justify"> I have used PsychoPy to conduct many psycholinguistic experiments such as self-paced reading, lexical decision, and maze task. </div>'
+    icon: desktop
+    icon_pack: fas
+    name: PsychoPy
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
