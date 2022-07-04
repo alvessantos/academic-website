@@ -42,6 +42,6 @@ superuser: true
 title: Alexandre Alves Santos
 ---
 
-Alexandre Alves Santos is a Ph.D. student in Hispanic Linguistics at the University of Massachusetts, Amherst. His research interests include Portuguese as a Heritage Language, Second Language Acquisition, Language Assessment, and Second Language Processing.
+Hi! I'm a Ph.D. student in Hispanic Linguistics at the University of Massachusetts, Amherst. My research interests include Portuguese as a Heritage Language, Second Language Acquisition, Language Assessment, and Second Language Processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Alves_Santos_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
